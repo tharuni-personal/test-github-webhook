@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello world"
+env=$1
+echo "Deploy into this env=$env"
